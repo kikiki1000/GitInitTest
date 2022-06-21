@@ -1,6 +1,6 @@
 public class Main {
     
     public static void main(String[] args) {
-        System.out.println("메인 진행");
+        System.out.println("메인 수정");
     }
 }
